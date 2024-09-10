@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [myxml](https://github.com/Adamska1008/myxml)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adamska1008&show_icons=true&theme=radical)
+
 <!--
 **Adamska1008/Adamska1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

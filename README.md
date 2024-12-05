@@ -10,6 +10,7 @@
   - [candle](https://github.com/huggingface/candle) ![](https://img.shields.io/github/stars/huggingface/candle?style=social)
   - [hf-hub](https://github.com/huggingface/hf-hub) ![](https://img.shields.io/github/stars/huggingface/hf-hub?style=social)
   - [shields](https://github.com/badges/shields) ![](https://img.shields.io/github/stars/badges/shields?style=social)
+  - [chess-tui](https://github.com/thomas-mauran/chess-tui) ![](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=social)
 
 <!--
 **Adamska1008/Adamska1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

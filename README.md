@@ -4,8 +4,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Adamska1008&show_icons=true&theme=social" />
 </a>
 
-- 🔭 I’m currently working on [myxml](https://github.com/Adamska1008/myxml) and [today](https://github.com/Adamska1008/today).
-- 👨🏻‍💻 Keep learing C++ ...
 - 🕯️ I contributed to: 
   - [candle](https://github.com/huggingface/candle) ![](https://img.shields.io/github/stars/huggingface/candle?style=social)
   - [hf-hub](https://github.com/huggingface/hf-hub) ![](https://img.shields.io/github/stars/huggingface/hf-hub?style=social)

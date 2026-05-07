@@ -6,6 +6,7 @@
 
 - 🕯️ I contributed to: 
   - [candle](https://github.com/huggingface/candle) ![](https://img.shields.io/github/stars/huggingface/candle?style=social)
+  - [oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) ![](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=social)
   - [hf-hub](https://github.com/huggingface/hf-hub) ![](https://img.shields.io/github/stars/huggingface/hf-hub?style=social)
   - [shields](https://github.com/badges/shields) ![](https://img.shields.io/github/stars/badges/shields?style=social)
   - [chess-tui](https://github.com/thomas-mauran/chess-tui) ![](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=social)
